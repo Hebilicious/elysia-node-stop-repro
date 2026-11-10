@@ -1,0 +1,12 @@
+{
+  "name": "elysia-node-stop-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "@elysiajs/node": "1.4.5",
+    "elysia": "1.4.30"
+  }
+}
